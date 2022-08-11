@@ -1,10 +1,10 @@
 ---
-title: Test
+title: Tutorials
 has_children: true
 nav_order: 2
 ---
 
-# Another page
+# Bunch of tutorials
 
 Test this
 
