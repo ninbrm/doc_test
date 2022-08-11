@@ -1,17 +1,27 @@
-name: "Mywebsite"
-title: "My new website"
+name: "ConScape"
+title: "ConScape"
 type: inverse
 left:
-  - text: "About me"
+  - text: "Home"
     menu:
-      - text: "Learn more about me"
-        href: ./aboutme.html
-  - text: "Project"
+      - text: "Home"
+        href: ./home.html
+  - text: "Tutorials"
     menu:
        - text: "Project part 1"
          href: ./project1.html
        - text: "Project part 2"
          href: ./project2.html
+  - text: "Projects"
+    menu:
+       - text: "Project part 1"
+         href: ./project1.html
+       - text: "Project part 2"
+         href: ./project2.html
+  - text: "FAQ"
+    menu:
+      - text: "FAQ"
+        href: ./faq.html
   - text: "Contact"
     href: ./contact.html
 right:
