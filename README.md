@@ -1,3 +1,9 @@
+---
+title: Welcome
+has_children: false
+nav_order: 1
+---
+
 # Welcome to ConScape
 
 Here we provided some more documentation for the [Conscape library](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13850) in [Julia](https://github.com/ConScape/ConScape.jl).
