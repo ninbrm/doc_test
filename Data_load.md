@@ -1,10 +1,10 @@
 ---
-title: Child of Test
-parent: Test
+title: Data load
+parent: Tutorials
 has_children: true
 nav_order: 1
 ---
 
-# Child of test
+# Data load
 
 I am a child page.
