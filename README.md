@@ -1,6 +1,6 @@
 ## Welcome to Documentation for ConScape on GitHub Pages
 
-The idea is that we can use the [editor on GitHub](https://github.com/ninbrm/doc_test/edit/master/README.md) to maintain and preview the content for the website in Markdown files.
+The idea is that we can use the [editor on GitHub](https://github.com/ninbrm/doc_test/edit/main/README.md) to maintain and preview the content for the website in Markdown files.
 
 Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in your Markdown files.
 
